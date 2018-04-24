@@ -1,6 +1,6 @@
 # MN_SystemsOfLinearEquations   
 2018 PG ETI INF Metody Numeryczne project 2 system of linear equations  
-##Contains implementations of:   
+## Contains implementations of:   
 * Matrix
 * Jacobi method
 * Gauss-Seidel method
